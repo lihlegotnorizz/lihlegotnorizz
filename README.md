@@ -8,7 +8,7 @@
 
 # Hey there 👋, I'm Lihle Naholo
 
-### Software Development Student · South Africa · Aspiring Full Stack Developer
+### Computer Science Student · South Africa · Aspiring Full Stack Developer
 
 Passionate about software development, modern web applications, Java development, and creating beautiful user experiences.
 
@@ -16,6 +16,7 @@ Passionate about software development, modern web applications, Java development
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lihlegotnorizz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lihlegotnorizz.github.io/lihle-digital-cv/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduv4966518@vossie.net)
+[![Phone](https://img.shields.io/badge/Phone-082%20633%206511-25A55F?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+27826336511)
 
 <br>
 
@@ -27,10 +28,11 @@ Passionate about software development, modern web applications, Java development
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Development student from South Africa
+- 🎓 Computer Science student from South Africa
 - 🌱 Learning **Java, Jakarta EE, JavaScript, and Python**
 - 🚀 Interested in **Full Stack Development**
 - 🎨 Interested in **UI/UX design** and creating intuitive digital experiences
+- 🖌️ I also use **Canva** for graphic design, visual content, and other creative projects
 - 🛠️ Currently building **web applications and portfolio projects**
 
 ---
@@ -39,7 +41,7 @@ Passionate about software development, modern web applications, Java development
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,git,github,mysql,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,git,github,mysql,vscode,figma,canva&theme=dark)](https://skillicons.dev)
 
 </div>
 
