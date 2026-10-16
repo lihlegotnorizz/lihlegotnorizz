@@ -16,7 +16,6 @@ Passionate about software development, modern web applications, Java development
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lihlegotnorizz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lihlegotnorizz.github.io/lihle-digital-cv/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduv4966518@vossie.net)
-[![Phone](https://img.shields.io/badge/Phone-082%20633%206511-25A55F?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+27826336511)
 
 <br>
 
