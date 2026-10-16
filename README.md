@@ -53,7 +53,7 @@ Passionate about software development, modern web applications, Java development
 | --- | --- |
 | 📱 **[MobileTrade Platform](https://github.com/lihlegotnorizz/MobileTrade)** | A customer-to-customer marketplace concept for buying, trading, and upgrading pre-loved phones. |
 | 🌐 **[Personal Portfolio Website](https://lihlegotnorizz.github.io/lihle-digital-cv/)** | My digital CV and portfolio, showcasing my background, skills, and project work. |
-| ⛪ **[Upon the Rock Church Website](https://lihlegotnorizz.github.io/Website-for-My-Church/)** | A community church website concept featuring information about branches, events, giving, and ways to connect. |
+| ⛪ **[Upon the Rock Church Website](https://lihlegotnorizz.github.io/Website-for-My-Church/)** · [Source code](https://github.com/lihlegotnorizz/Website-for-My-Church) | A community church website concept featuring information about branches, events, giving, and ways to connect. |
 | 🎓 **Student Management System** | A student-focused project. Repository link coming soon. |
 
 ---
